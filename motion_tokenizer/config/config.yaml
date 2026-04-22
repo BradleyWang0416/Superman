@@ -1,0 +1,7 @@
+num_frames: 16
+sample_stride: 1
+data_stride: 16
+
+load_data_file: data/h36m/h36m_sh_conf_cam_source_final_wJ2dCpn.pkl
+load_image_source_file: data/h36m/images_source.pkl
+load_bbox_file: data/h36m/bboxes_xyxy.pkl
